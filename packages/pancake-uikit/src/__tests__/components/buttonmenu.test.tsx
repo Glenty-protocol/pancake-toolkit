@@ -60,7 +60,7 @@ it("renders correctly", () => {
       transition: background-color 0.2s,opacity 0.2s;
       height: 48px;
       padding: 0 24px;
-      background-color: #1FC7D4;
+      background-color: #312783;
       color: white;
     }
 
@@ -118,7 +118,7 @@ it("renders correctly", () => {
       padding: 0 24px;
       background-color: #EFF4F5;
       box-shadow: none;
-      color: #1FC7D4;
+      color: #312783;
     }
 
     .c2:hover:not(:disabled):not(.pancake-button--disabled):not(.pancake-button--disabled):not(:active) {

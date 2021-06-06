@@ -133,7 +133,7 @@ it("renders correctly", () => {
       height: 48px;
       padding: 0 24px;
       background-color: transparent;
-      color: #1FC7D4;
+      color: #312783;
       box-shadow: none;
       width: sm;
       height: sm;
@@ -194,7 +194,7 @@ it("renders correctly", () => {
       padding: 0 16px;
       background-color: #EFF4F5;
       box-shadow: none;
-      color: #1FC7D4;
+      color: #312783;
     }
 
     .c8:hover:not(:disabled):not(.pancake-button--disabled):not(.pancake-button--disabled):not(:active) {
@@ -250,7 +250,7 @@ it("renders correctly", () => {
       height: 48px;
       padding: 0 24px;
       background-color: transparent;
-      color: #1FC7D4;
+      color: #312783;
       box-shadow: none;
     }
 
@@ -360,7 +360,7 @@ it("renders correctly", () => {
       font-size: 16px;
       background-color: transparent;
       color: #7A6EAA;
-      box-shadow: inset 4px 0px 0px #1FC7D4;
+      box-shadow: inset 4px 0px 0px #312783;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;

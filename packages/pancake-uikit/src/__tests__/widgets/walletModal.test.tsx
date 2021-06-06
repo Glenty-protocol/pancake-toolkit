@@ -15,7 +15,7 @@ it("renders ConnectModal correctly", () => {
     }
 
     .c13 {
-      color: #1FC7D4;
+      color: #312783;
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
@@ -23,7 +23,7 @@ it("renders ConnectModal correctly", () => {
     }
 
     .c16 {
-      color: #1FC7D4;
+      color: #312783;
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
@@ -52,7 +52,7 @@ it("renders ConnectModal correctly", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: #1FC7D4;
+      fill: #312783;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -72,7 +72,7 @@ it("renders ConnectModal correctly", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: #1FC7D4;
+      fill: #312783;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -132,7 +132,7 @@ it("renders ConnectModal correctly", () => {
       height: 48px;
       padding: 0 24px;
       background-color: transparent;
-      color: #1FC7D4;
+      color: #312783;
       box-shadow: none;
     }
 
@@ -190,7 +190,7 @@ it("renders ConnectModal correctly", () => {
       padding: 0 24px;
       background-color: #EFF4F5;
       box-shadow: none;
-      color: #1FC7D4;
+      color: #312783;
       width: 100%;
       margin-bottom: 8px;
     }
@@ -249,7 +249,7 @@ it("renders ConnectModal correctly", () => {
       padding: 0 24px;
       background-color: #EFF4F5;
       box-shadow: none;
-      color: #1FC7D4;
+      color: #312783;
       width: 100%;
       margin-bottom: 0;
     }

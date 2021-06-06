@@ -43,7 +43,7 @@ it("renders correctly", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: #1FC7D4;
+      fill: #312783;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -81,7 +81,7 @@ it("renders correctly", () => {
       height: 48px;
       padding: 0 24px;
       background-color: transparent;
-      color: #1FC7D4;
+      color: #312783;
       box-shadow: none;
     }
 
